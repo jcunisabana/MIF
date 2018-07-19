@@ -14,7 +14,8 @@ output:
 
 
 
-## Descripción del curso 
+Descripción del curso 
+=====================
 
 <img align="right" src="img/books.jpg" style="width:350;height:350px;">
 
@@ -44,8 +45,8 @@ Juan Camilo Espejo-Serna\
 Lunes, 2:00 pm - 5:00pm. Atelier 104\
 
 
-## Objetivos 
-
+Objetivos 
+=========
 
 1.  Identificar un tema de tesis apropiado para el proyecto de
     investigación.
