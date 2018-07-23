@@ -1,15 +1,20 @@
 ---
 title: "Metodología de la investigación filosófica"
-author: ""
-date: ""
+author: ''
+date: ''
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Adobe Jenson Pro}  
 output:
+  pdf_document:
+    toc: no
+    toc_depth: '4'
+    latex_engine: xelatex
   html_document:
     theme: yeti
     toc: yes
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    toc: no
 ---
 
 
@@ -100,8 +105,8 @@ Lectura estructurada. Primeras reuniones con los de directores de tesis. Segunda
 
 (*6 semanas*)
 
-Evaluación  
-==========
+Calificación  
+============
 
   *Actividad*              *Valor porcentual*   *Corte*
   ----------------------- -------------------- ---------
