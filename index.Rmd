@@ -121,7 +121,7 @@ Calificación
 Para cada semana, los estudiantes deben leer dos artículos o un capítulo
 de un libro relevante y producir las reseñas correspondientes según las
 indicaciones del profesor. La entrega deberá ser subida a la plataforma
-virtual a más tardar el *viernes a las 7 de la mañana*. Todos los
+virtual a más tardar el *domingo a las 7 de la noche*. Todos los
 estudiantes empiezan con 5.0 en esta nota; por cada vez que no se
 participe dentro del rango de tiempo especificado, la nota será
 disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5;
