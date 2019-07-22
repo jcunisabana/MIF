@@ -4,7 +4,7 @@ author: ''
 date: ''
 output:
   html_document:
-    theme: paper
+    theme: simplex
     toc: yes
     toc_depth: 4
     toc_float: yes
