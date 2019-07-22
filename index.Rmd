@@ -2,21 +2,20 @@
 title: "Metodología de la investigación filosófica"
 author: ''
 date: ''
-header-includes:
-  - \usepackage{fontspec}
-  - \setmainfont{Adobe Jenson Pro}  
 output:
-  pdf_document:
-    toc: no
-    toc_depth: '4'
-    latex_engine: xelatex
-    keep_tex: true
-
   html_document:
-    theme: yeti
+    theme: paper
     toc: yes
     toc_depth: 4
     toc_float: yes
+  pdf_document:
+    keep_tex: yes
+    latex_engine: xelatex
+    toc: no
+    toc_depth: '4'
+header-includes:
+- \usepackage{fontspec}
+- \setmainfont{Adobe Jenson Pro}
 ---
 <script>
 !--    google analytics-->
@@ -57,9 +56,9 @@ trabajo presentándo un anteproyecto.
 
 **Docente**:
 [Juan Camilo Espejo-Serna](../index.html)\
-**Horario y salón:** Lunes 8:00 - 11:00 am, Atelier 103\
+**Horario y salón:** Lunes 2:00 - 3:00 pm, Atelier 105. Miércoles 11:00 am - 1:00pm, Atelier 103.\
 **Página web del curso**:
-http://jcunisabana.github.io/MIF\
+http://jcunisabana.github.io/MIF
 
 
 
@@ -113,7 +112,7 @@ Primera síntesis del asunto a tratar. Búsqueda de directores de tesis. Primera
 
 *(6 semanas)*
 
-*Módulo 3 - Aprobación del anteproyecto*
+*Módulo 3 - Construcción del anteproyecto*
 
 Lectura estructurada. Primeras reuniones con los de directores de tesis. Segunda versión del anteproyecto.
 
@@ -135,7 +134,7 @@ Calificación
 Para cada semana, los estudiantes deben leer dos artículos o un capítulo
 de un libro relevante y producir las reseñas correspondientes según las
 indicaciones del profesor. La entrega deberá ser subida a la plataforma
-virtual a más tardar el *domingo a las 7 de la noche*. Todos los
+virtual a más tardar el *lunes a las 8 de la mañana*. Todos los
 estudiantes empiezan con 5.0 en esta nota; por cada vez que no se
 participe dentro del rango de tiempo especificado, la nota será
 disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5;
