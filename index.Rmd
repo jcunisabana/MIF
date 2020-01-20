@@ -56,7 +56,7 @@ trabajo presentándo un anteproyecto.
 
 **Docente**:
 [Juan Camilo Espejo-Serna](../index.html)\
-**Horario y salón:** Lunes 2:00 - 3:00 pm, Atelier 105. Miércoles 11:00 am - 1:00pm, Atelier 103.\
+**Horario y salón:** Lunes 2:00 - 5:00 pm, G101\
 **Página web del curso**:
 http://jcunisabana.github.io/MIF
 
