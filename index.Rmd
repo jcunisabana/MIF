@@ -56,7 +56,7 @@ trabajo presentándo un anteproyecto.
 
 **Docente**:
 [Juan Camilo Espejo-Serna](../index.html)\
-**Horario y salón:** Lunes 2:00 - 5:00 pm, G101\
+**Horario:** Jueves 3:00 - 6:00 pm.\
 **Página web del curso**:
 http://jcunisabana.github.io/MIF
 
@@ -131,17 +131,19 @@ Calificación
 
 #### Entrega semanal 
 
-Para cada semana, los estudiantes deben leer dos artículos o un capítulo
+Para cada (casi) todas las semanas, los estudiantes deben leer dos artículos o un capítulo
 de un libro relevante y producir las reseñas correspondientes según las
 indicaciones del profesor. La entrega deberá ser subida a la plataforma
-virtual a más tardar el *lunes a las 8 de la mañana*. Todos los
+virtual a más tardar el *72 horas antes de la sesión*. Todos los
 estudiantes empiezan con 5.0 en esta nota; por cada vez que no se
 participe dentro del rango de tiempo especificado, la nota será
 disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5;
 segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
+
+
 #### Participación  
-Cada semana, se deberá comentar al menos una entrega de sus compañeros.
+Cada (casi) todas las semanas, se deberá comentar al menos una entrega de sus compañeros.
 Hagan una pregunta, sugieran bibliografía, propongan un cambio, etc.. Es
 importante que los comentarios sean articulados y busquen mejorar el
 texto de sus compañeros. Los comentarios deben ser realizados en las *24
@@ -149,7 +151,7 @@ horas siguientes a la clase*. Todos los estudiantes empiezan con 5.0 en
 esta nota; por cada vez que no se participe dentro del rango de tiempo
 especificado, la nota será disminuida de acuerdo con los siguientes
 parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5;
-cuarta vez: -2.0.
+cuarta vez: -2.0.(Vean la política sobre incumplimiento de fechas más abajo.)
 
 #### Borrador anteproyecto  
 
@@ -163,3 +165,10 @@ profesor. Debe incluir una defensa oral del proyecto ante compañeros y
 quien puede ser el posible director o directora.
 
 
+#### **Incumplimiento**
+<p style="color:white; background-color:indigo; padding: 5px;">
+*La vida nos da sorpresas; sorpresas nos da la vida.* 
+Por eso, todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan un control de lectura y entregan todos los demás, su nota igual queda en 5.0.</p>
+
+
+Para todo lo demás, es importante avisar al profesor. Hablemos. No me tienen que contar sus problemas personales pero es importante que si se encuentran en una situación en la que ven que no pueden cumplir con los requerimientos de clase me avisen con la mayor anticipación posible y encontremos un plan para solventar el problema en lo que respecta a la clase. Insisto: hablemos, no se pierdan **:)**. 
